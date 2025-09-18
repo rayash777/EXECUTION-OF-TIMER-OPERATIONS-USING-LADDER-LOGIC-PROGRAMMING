@@ -3,7 +3,7 @@
 
  #### NAME : RAYASH R
  #### REGISTER NUMBER :212224230226
- #### DEPARTMENT : CSE(IOT)
+ #### DEPARTMENT : AIDS
  
 # Aim:
 To understand and implement timer operations in a PLC using ladder logic and verify the output for different types of timers (ON-delay, OFF-delay, and Retentive timers).
